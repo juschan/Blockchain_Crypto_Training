@@ -2,7 +2,7 @@
 
 ### Notes
 * Google Classroom is not used
-* IFoA - Cashless Society Paper
+* [IFoA Cashless Society Website](https://www.actuaries.org.uk/practice-areas/finance-and-investment/finance-and-investment-research-working-parties/cashless-society-working-party)
 
 ### Part 1
 - [Satoshi Nakamoto paper. Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
